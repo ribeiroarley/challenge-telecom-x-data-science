@@ -27,12 +27,12 @@ A análise seguiu uma metodologia estruturada para garantir a clareza dos result
 
 Este projeto foi desenvolvido utilizando as seguintes ferramentas e bibliotecas:
 
-* **Python:**
-* **Jupyter Notebook / Google Colab:**
+* **Python**
+* **Jupyter Notebook / Google Colab**
 * **Pandas:** 
-* **Matplotlib:** 
-* **Seaborn:** 
-* **Numpy:**
+* **Matplotlib** 
+* **Seaborn** 
+* **Numpy**
 
 ---
 
